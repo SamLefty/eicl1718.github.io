@@ -1,0 +1,10 @@
+Anleitung zur Anmeldung auf der Moodle-Seite von "Einführung in die Computerlinguistik 17/18"
+
+1) gehe auf https://moodle.lmu.de/
+2) gehe auf "log in" (rechts oben) --> "With LMU credentials" --> melde dich mit deiner Campus-Kennung an
+3) wenn du nicht automatisch weitergeleitet wirst, gehe wieder auf https://moodle.lmu.de/
+4) wähle Fakultät 13 --> Department 2 --> Centrum für Informations- und Sprachverarbeitung --> eicl-ws1718
+5) drücke auf "Self enrolment (Student)", und gib alle nötigen Angaben ein. Der Schlüssel für diesen Kurs ist: eicl1718
+6) Hier können schon die ersten Folien eingesehen und die ersten Übungsaufgaben gelöst werden. Viel Spaß!
+
+Bei Fragen: Mail an eicl1718@cis.uni-muenchen.de
